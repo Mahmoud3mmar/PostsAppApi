@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65739cf0388159cab3e92194"
+  },
+  "title": "new post3",
+  "content": "new post content3",
+  "userID": {
+    "$oid": "657382372185dc075fa648af"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65739cf7388159cab3e92197"
+  },
+  "title": "new post5",
+  "content": "new post content4",
+  "userID": {
+    "$oid": "657382372185dc075fa648af"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65739d36388159cab3e9219c"
+  },
+  "title": "new post5",
+  "content": "new post content5",
+  "userID": {
+    "$oid": "657382372185dc075fa648af"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574c94e56ae9add941ddf7d"
+  },
+  "title": "new updated post",
+  "content": "new updated post content",
+  "userID": {
+    "$oid": "657382372185dc075fa648af"
+  },
+  "__v": 0
+}]

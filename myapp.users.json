@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6573709861002967d01134f3"
+  },
+  "email": "Ammar@email",
+  "password": "asdasd",
+  "age": 23,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573724c883271cf9685f181"
+  },
+  "email": "Amma2r@email",
+  "password": "$2b$05$ODxDUdV9T/ypeXfxR4d6p.KhHd3d.l50B6A5/0JVk.lW.BJkYpkGa",
+  "age": 23,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6573733a96f44753f5f7e380"
+  },
+  "email": "Ammar3@email",
+  "password": "$2b$05$bgNCcQaD2UR4k7wvgvkHxep2Os3c0lat3LoSUPUSgbqfZcY6y1Wia",
+  "age": 23,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657382372185dc075fa648af"
+  },
+  "email": "Ahmed@",
+  "password": "abs",
+  "age": 20,
+  "__v": 0,
+  "gender": "malee",
+  "phone": 213,
+  "userName": "Ahmed"
+}]
